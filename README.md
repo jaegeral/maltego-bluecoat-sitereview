@@ -11,8 +11,8 @@ Maltego:
 Local Transformation --> 
 	Name --> BlueCoat_SiteCheck_Maltego
 	Description --> blank
-	transformID --> alexanderjaeger.bluecoatmaltego
-	Author --> alexanderjaeger
+	transformID --> yourname.bluecoatmaltego
+	Author --> deralexxx
 	Input entity type --> URL
 
 '''
