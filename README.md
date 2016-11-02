@@ -1,7 +1,7 @@
 # maltego-bluecoat-sitereview
 Maltego integation for siterview with bluecoat
 
-This maltego tranformation is to check sitereview status of a given URL with bluecoat: http://sitereview.bluecoat.com/sitereview.jps
+This maltego tranformation is to check sitereview status of a given URL with bluecoat: http://sitereview.bluecoat.com/sitereview.jsp
 
 This module is provided as is.
 
